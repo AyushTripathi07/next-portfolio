@@ -177,17 +177,17 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link: "https://github.com/AyushTripathi07", // Add the link to your GitHub profile
+    link: "https://github.com/AyushTripathi07", 
   },
   {
     id: 2,
     img: "/twit.svg",
-    link: "https://x.com/AyushTr31492414", // Add the link to your Twitter profile
+    link: "https://x.com/AyushTr31492414", 
   },
   {
     id: 3,
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/ayush-tripathi07/", // Add the link to your LinkedIn profile
+    link: "https://www.linkedin.com/in/ayush-tripathi07/", 
   },
 ];
 
